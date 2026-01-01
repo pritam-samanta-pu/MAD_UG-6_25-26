@@ -91,4 +91,5 @@ class LoginPageState extends State<LoginPage> {
 
 ## Output
 
-<img src="https://github.com/pritam-samanta-pu/MAD_UG-6_25-26/blob/main/Output/3.png" alt="Email Validation" style="width:50%;">
+<img src="https://github.com/pritam-samanta-pu/MAD_UG-6_25-26/blob/main/Output/3.jpg" alt="Email Validation" style="width:50%;">
+
