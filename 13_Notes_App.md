@@ -6,7 +6,7 @@
 dependencies:
   flutter:
     sdk: flutter
-  shared_preferences: ^2.2.2
+  path_provider: ^2.1.2
 ```
 
 ## `main.dart`
@@ -114,3 +114,4 @@ class NotesAppState extends State<NotesApp> {
 ## Output
 
 <img src="https://github.com/pritam-samanta-pu/MAD_UG-6_25-26/blob/main/Output/13.png" alt="Notes App" style="width:50%;">
+
